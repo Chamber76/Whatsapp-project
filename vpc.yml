@@ -2,3 +2,4 @@
 #create subnet and route tables
 #create IGW and attach vpc
 #create SG
+# add cird
